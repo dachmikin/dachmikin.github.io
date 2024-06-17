@@ -7,7 +7,7 @@ export const easyConfig = {
 	firstName: capitalizeName(easyAbcUserConfig.firstName),
 	fullName: capitalizeName(easyAbcUserConfig.fullName),
 	siteTitle: `${capitalizeName(easyAbcUserConfig.firstName)}'s Blog`,
-	siteDescription: `The personal blog of ${capitalizeName(easyAbcUserConfig.fullName)}.`,
+	siteDescription: `I am ${capitalizeName(easyAbcUserConfig.fullName)}, welcome to my humble abode!`,
 	get headshotPath() {
 		return checkLoadDefaultImages(easyAbcUserConfig.headShotPath, 'easy-abc/headshot.png');
 	},

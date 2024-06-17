@@ -32,7 +32,7 @@ const LINKTREE_USERNAME = '';
 const HEADSHOT_PATH = 'personal-blog/images/wowcat.jpg';
 const HEADSHOT_ALT = 'A photo of dachmikin';
 // Limited to three lines. Either one long line that breaks automatically or seperate with a newline.
-const ABOUT_ME = 'Cybersecurity Student,\nCertified EMT,\nPassionate about all things security related';
+const ABOUT_ME = 'Cybersecurity Student,\nCertified EMT,\nPassionate about all things security related!';
 
 // The default social image is what is used to generate the preview cards for Twitter, Facebook, etc.
 // This is used in the case your blog post does not include a hero image.
@@ -52,7 +52,7 @@ export const easyAbcUserConfig = {
 	firstName: FIRST_NAME,
 	fullName: FULL_NAME,
 	siteTitle: `${FIRST_NAME}'s Blog`,
-	siteDescription: `The personal blog of ${FULL_NAME}.`,
+	siteDescription: `Welcome to my little test project! Although this isn't finished yet, watch this space for more updates!`,
 	headShotPath: HEADSHOT_PATH,
 	headshotAlt: HEADSHOT_ALT,
 	aboutMe: ABOUT_ME,
