@@ -1,38 +1,38 @@
 import { SchemeVariant } from '../src/utils/colorFun/src';
 
 // General site info
-const FULL_NAME = 'shelby jenkins';
-const FIRST_NAME = 'shelby';
+const FULL_NAME = 'dachmikin';
+const FIRST_NAME = 'DACHmikin';
 
 // Github Pages configuration
-const GITHUB_USERNAME = 'shelbyjenkins';
+const GITHUB_USERNAME = 'dachmikin';
 
 // A hex color value. This is used to set the primary color of the site.
 // Checkout https://shelbyjenkins.github.io/easy/theme/ for live demo
-const PRIMARY_COLOR = '#40a1e6'; // Curious Blue #40a1e6 64, 161, 230
+const PRIMARY_COLOR = '#0060c5'; // Curious Blue #40a1e6 64, 161, 230
 const THEME_VARIANT = SchemeVariant.COMPLEMENTARY;
 
 // Social media links - leave blank if you don't want to display a link
-const LINKEDIN_USERNAME = 'jshelbyj';
-const TWITTER_USERNAME = 'j_shelby_j';
+const LINKEDIN_USERNAME = 'dancmk';
+const TWITTER_USERNAME = '';
 const YOUTUBE_USERNAME = '';
 const FACEBOOK_USERNAME = '';
-const INSTAGRAM_USERNAME = 'https://www.instagram.com/johnshelbyjenkins/';
+const INSTAGRAM_USERNAME = '';
 const SNAPCHAT_USERNAME = '';
 const MASTODON_USERNAME = '';
-const DISCORD_USERNAME = '274377022287904769'; // This is actually the user's ID, not their username
+const DISCORD_USERNAME = ''; // This is actually the user's ID, not their username
 const DISCORD_SERVER_INVITE = ''; // Will look like https://discord.gg/<invite code>
 const TWITCH_USERNAME = '';
-const TELEGRAM_USERNAME = 'j_shelby_j';
+const TELEGRAM_USERNAME = '';
 const WHATSAPP_USERNAME = ''; // This is the user's phone number, not their username https://faq.whatsapp.com/5913398998672934
 const LINKTREE_USERNAME = '';
 
 // About me config
 // A photo of you. It will be displayed in the about me section of the blog.
 const HEADSHOT_PATH = 'personal-blog/images/headshot.png';
-const HEADSHOT_ALT = 'A photo of Shelby Jenkins';
+const HEADSHOT_ALT = 'A photo of dachmikin';
 // Limited to three lines. Either one long line that breaks automatically or seperate with a newline.
-const ABOUT_ME = 'Professional GTDer,\nAmateur software developer,\nDreamer of big things';
+const ABOUT_ME = 'Cybersecurity Student,\nCertified EMT,\nPassionate about all things security related';
 
 // The default social image is what is used to generate the preview cards for Twitter, Facebook, etc.
 // This is used in the case your blog post does not include a hero image.
